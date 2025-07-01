@@ -1,0 +1,15 @@
+# Ignore Python venv and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment and logs
+.env
+*.log
+
+# Ignore IDE/editor files
+.vscode/
+*.code-workspace
+
+# Ignore node_modules if using any frontend packages
+node_modules/
